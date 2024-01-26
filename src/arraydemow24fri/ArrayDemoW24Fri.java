@@ -12,6 +12,7 @@ import java.util.Scanner;
  * To check pull
  * to check second push
  second pull
+ third push
  * @author Ronak
  */
 public class ArrayDemoW24Fri {
