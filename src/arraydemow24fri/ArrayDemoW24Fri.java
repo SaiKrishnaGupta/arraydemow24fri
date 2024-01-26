@@ -7,7 +7,7 @@ package arraydemow24fri;
 import java.util.Scanner;
 
 /**
- *
+ * This clomment was added on the 26th of January
  * @author Ronak
  */
 public class ArrayDemoW24Fri {
