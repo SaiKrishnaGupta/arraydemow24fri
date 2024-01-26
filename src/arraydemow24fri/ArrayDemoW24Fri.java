@@ -14,6 +14,7 @@ import java.util.Scanner;
  second pull
  third push
  third pull
+ fourth pull
  * @author Ronak
  */
 public class ArrayDemoW24Fri {
